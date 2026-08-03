@@ -99,7 +99,7 @@ screenshots/
 
 ## 🌐 Live Demo
 
-**Netlify:** *(Add your deployed link here)*
+**Netlify:** (https://boisterous-kitsune-d05e14.netlify.app/)
 
 Example:
 
